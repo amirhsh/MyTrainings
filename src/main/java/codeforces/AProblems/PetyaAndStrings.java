@@ -4,6 +4,9 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+/*
+Problem num: 112A
+ */
 public class PetyaAndStrings {
     public static void main(String[] args) {
         try(InputStreamReader inputStreamReader = new InputStreamReader(System.in);
