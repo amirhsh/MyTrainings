@@ -3,7 +3,9 @@ package codeforces.AProblems;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-
+/*
+Problem nm: 282A
+ */
 public class BitPlusPlus {
     public static void main(String[] args) {
         int i = 0;

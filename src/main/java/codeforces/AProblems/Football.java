@@ -7,6 +7,7 @@ import java.util.HashMap;
 
 /*
 Very Very Very bad solution
+problem num: 96A
  */
 public class Football {
     public static void main(String[] args) {
