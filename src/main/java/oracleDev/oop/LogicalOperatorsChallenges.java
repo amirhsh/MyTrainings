@@ -1,3 +1,5 @@
+package oracleDev.oop;
+
 /*
 https://nobugsproject.com/2017/06/20/java-challenge-5-logical-and-bitwise-operators/
 */
